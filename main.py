@@ -81,4 +81,4 @@ plt.tight_layout()
 plt.savefig("piechart.png")
 plt.show()
 
-print("\nDone! All plots saved successfully ✅")
+print("\nDone! All plots saved successfully ")
